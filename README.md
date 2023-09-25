@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Madhuryya Bhattacharyya</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
-<img align="right" alt="programming" width="400" src="https://www.google.com/search?q=animated+coding+gif&rlz=1C1VDKB_enIN1023IN1023&oq=animated+coding&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyCQgBEEUYORiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCjEzNjg5ajFqMTWoAgCwAgA&sourceid=chrome&ie=UTF-8#vhid=ITaGGdoGDaxxhM&vssid=l">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhuryya&label=Profile%20views&color=0e75b6&style=flat" alt="madhuryya" /> </p>
 
